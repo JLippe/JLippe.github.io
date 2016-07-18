@@ -1,8 +1,8 @@
 jQuery(document).ready(function ($) {
 
  $("#gallery").instastream({
-        instaToken: '159193.1677ed0.14c21f1263ac475b82c5259e48e6893b',
-        instaUser: 'e87a3f6db27b4ab8a1ac1353482dcd71',
+        instaToken: '159193.2bf8cd3.6ab2ae9196f04953a6e3bd90d2ce54fe',
+        instaUser: 'tokyojesse',
         instaResults: 3,
         instaMenu: 'yes'
     });
